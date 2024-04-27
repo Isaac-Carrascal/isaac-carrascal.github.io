@@ -3,21 +3,13 @@
 
 About me:
 
-Data Analyst with experience in data engineering (aka DIY analytics). Interested in building unbreakable systems and solar fusion, whichever comes first. I can read and write SQL fluently. Also Spanish, French and some textbook version of German. 
+Data Analyst with experience in data engineering (aka DIY analytics) and transitioning into engineering focused roles. Interested in building scalable systems in data. 
+My expertise is in SQL but I can read and understand some other languages like python, R and C/C++ albeit at a higher level. 
+Also Spanish, French and some textbook version of German :) 
 Living in Switzerland.
 
 
-Motos:
-
-
-"If the Data doesn't come to you, you ETL your way to the data"
-
-"Dashboards don't grow on trees"
-
-"The key, the whole key and nothing but the key, and so help me Codd"
-
-
-## Projects
+## (Future) Projects
 
 ### Transform formats on the fly (Spark)
 
