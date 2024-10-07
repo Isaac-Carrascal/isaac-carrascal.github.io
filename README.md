@@ -11,12 +11,6 @@ Living in Switzerland.
 
 ## (Future) Projects
 
-### Transform formats on the fly (Spark)
-
-### Uber insights from a random city (Pandas)
-
-### Streaming analytics (Kafka)
-
 ### End-to-end project: CFF Congestion points 
 
 
